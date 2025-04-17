@@ -10,6 +10,7 @@
   "keywords": [
     "rrweb"
   ],
+  "private": true,
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/devrev/rrweb/issues"
