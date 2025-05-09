@@ -1,6 +1,6 @@
 {
   "name": "@kani-test/record",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Kanishq",
   "publishConfig": {
     "access": "public",
