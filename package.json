@@ -1,6 +1,6 @@
 {
   "description": "record and replay the web - devrev",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "name": "@kani-test/rrweb",
   "author": "Devrev",
   "repository": {
