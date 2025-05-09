@@ -2,7 +2,6 @@
   "description": "record and replay the web - devrev",
   "version": "1.0.1",
   "name": "@kani-test/rrweb",
-  "private": true,
   "author": "Devrev",
   "repository": {
     "type": "git",
